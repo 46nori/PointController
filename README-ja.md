@@ -54,7 +54,11 @@ DTC124Eの入力-GND間抵抗は44KΩ(入力・バイアス抵抗はそれぞれ
 
 ## 基板
 ### 試作
+![](https://github.com/46nori/PointController/blob/images/Prototype.jpeg)
+
 ### プリント基板(未製造)
+![](https://github.com/46nori/PointController/blob/images/PCB-Rev1.0-3d.jpeg)  
+![](https://github.com/46nori/PointController/blob/images/PCB-Rev1.0-image.jpeg)  
 
 ## 免責事項
 本リポジトリに含まれる情報を利用することにより生じたあらゆる損害に対し、本リポジトリの情報提供者は一切の責任を負わないものとします。

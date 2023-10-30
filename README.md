@@ -23,7 +23,6 @@ Example of driving TOMIX N-gauge electric points with an AVR microcontroller (vi
 
 ## Schematic Diagram
 
-
 ### SPI Connector Specifications
 | Pin| Signal    |
 |----|-----------|
@@ -49,8 +48,11 @@ Therefore, it is necessary that R105 * 5 / (R105 + 22K) > 3.15.
 
 ## Board
 ### Prototype
+![](https://github.com/46nori/PointController/blob/images/Prototype.jpeg)
 
 ### Printed Circuit Board (Not Manufactured)
+![](https://github.com/46nori/PointController/blob/images/PCB-Rev1.0-3d.jpeg)  
+![](https://github.com/46nori/PointController/blob/images/PCB-Rev1.0-image.jpeg)  
 
 ## Disclaimer
 The information provided in this repository absolves the information providers of any responsibility for any damage caused by utilizing the information contained herein.
