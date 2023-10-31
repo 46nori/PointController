@@ -22,7 +22,10 @@ Example of driving TOMIX N-gauge electric points with an AVR microcontroller (vi
 [![](https://img.youtube.com/vi/Y3gJkpfgWYg/0.jpg)](https://www.youtube.com/watch?v=Y3gJkpfgWYg)
 
 ## Schematic Diagram
+[KiCad data](./16CH-PointController/)
 
+![Main](./16CH-PointController/SVG/PointController.svg)  
+![RelayModule](./16CH-PointController/SVG/PointController-RelayModule1.svg)
 ### SPI Connector Specifications
 | Pin| Signal    |
 |----|-----------|
