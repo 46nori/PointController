@@ -1,4 +1,4 @@
-# Point Controller for Raillway Model
+# Point Controller for Railway Model
 
 [日本語版READMEはこちら](./README-ja.md)
 
